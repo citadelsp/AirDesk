@@ -1,4 +1,4 @@
-# AirDesk HVAC AI Platform
+# AirDesk 
 
 AirDesk combines a frontend web experience with a FastAPI backend that handles Twilio SMS webhooks and generates AI responses for missed HVAC calls.
 
